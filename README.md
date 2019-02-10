@@ -1,5 +1,5 @@
 # methionine-content-analysis-
-The Matlab script documents the methionine content analysis for Yu et al. Cell 2019.
+The Matlab script documents the methionine content analysis for Yang et al. Cell 2019.
 
 ## Method
 To estimate the significance of the enrichment of methionine in the C-terminal low complexity region (150
