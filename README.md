@@ -1,4 +1,5 @@
-# methionine-content-analysis-
+# Code_for_methionine_content_analysis
+This Matlab script is used to perform the methionine content analysis described in Yang et al. Cell 2019.-
 The Matlab script documents the methionine content analysis for Yang et al. Cell 2019.
 
 ## Method
